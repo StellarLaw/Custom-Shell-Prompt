@@ -1,6 +1,5 @@
 # Custom Shell Project
 
-**Course:** COP4610: Operating Systems   
 **Team Members:**  
 
 - Alek
